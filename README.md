@@ -52,6 +52,7 @@ GEMINI_API_KEY=your_api_key
 
 ## UI
 
+![Q/A UI][https://github.com/nparsan/unix_trainer/blob/main/screenshots/Screenshot%202024-09-04%20at%2011.48.56.png]
 
 ## Implementation
 
