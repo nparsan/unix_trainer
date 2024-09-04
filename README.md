@@ -2,6 +2,8 @@
 
 A CLI interface to practice shell scripts with automatic question creation and grading.
 
+![Q/A UI](https://github.com/nparsan/unix_trainer/blob/main/screenshots/Screenshot%202024-09-04%20at%2011.48.56.png)
+
 ## Table of Contents
 - [Features](#features)
 - [Installation](#installation)
