@@ -8,9 +8,6 @@ __pycache__/
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
 
-# Data files
-data/questions.json
-
 # IDE specific files
 .vscode/
 .idea/
